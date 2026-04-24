@@ -1,2 +1,3 @@
 # proyecto1
-aprendizaje
+# aprendizaje
+import numpy as np
